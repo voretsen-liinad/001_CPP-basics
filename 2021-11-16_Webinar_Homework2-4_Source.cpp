@@ -1,0 +1,1 @@
+extern const int a{ 11 }, b{ -3 }, c{ 7 }, d{ -4 }; 
